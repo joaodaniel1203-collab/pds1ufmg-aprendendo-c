@@ -12,6 +12,6 @@ int main(void){
     c = c1 * c1;
     inteiros = a + b + c;
 
-    printf("A soma dos quadrados dos numeros digitados e: %d\n", inteiros);
+    printf("A soma dos quadrados dos numeros digitados é: %d\n", inteiros);
     return 0;
 }
