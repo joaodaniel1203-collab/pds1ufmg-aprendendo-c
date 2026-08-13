@@ -1,4 +1,5 @@
-#include <stdio.h>  <math.h>
+#include <stdio.h>
+#include <math.h>
 
 
 int main(void){
@@ -15,7 +16,7 @@ int main(void){
     scanf("%d", &n);
 
     //ou,vf== vp * pow(1 + i * 0.01f, n);
-    vf = vp; // significa que o vf atribuí o valor do vp.
+     vf = vp; // significa que o vf atribuí o valor do vp.
     float fator = 1.0f + i * 0.01f;
     for (int k = 0; k < n; k++) {
         vf *= fator;

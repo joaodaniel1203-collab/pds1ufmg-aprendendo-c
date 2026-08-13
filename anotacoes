@@ -1,0 +1,6 @@
+PARA COMPILAR NO GCC
+-Abra o cmd
+-Use o comando cd
+-Use dir
+-Use o comando gcc (nome do arquivo)
+-use o comando a.exe (ou o nome dado ao arquivo .exe) para executar o programa
